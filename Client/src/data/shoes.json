@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Air Max 270",
+    "price": 150,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600",
+    "sizes": [7, 8, 9, 10, 11, 12],
+    "description": "The Nike Air Max 270 features a huge Air unit, delivering lightweight cushioning for everyday wear.",
+    "category": "Running"
+  },
+  {
+    "id": 2,
+    "name": "Air Force 1",
+    "price": 100,
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&w=600",
+    "sizes": [6, 7, 8, 9, 10, 11, 12, 13],
+    "description": "The radiance lives on in the Nike Air Force 1 '07, the b-ball OG that puts a fresh spin on what you know best.",
+    "category": "Sneakers"
+  },
+  {
+    "id": 3,
+    "name": "Air Jordan 1",
+    "price": 170,
+    "image": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?auto=format&fit=crop&w=600",
+    "sizes": [7, 8, 9, 10, 11, 12],
+    "description": "The Air Jordan 1 Mid brings full-court style and premium comfort to an iconic look.",
+    "category": "Basketball"
+  },
+  {
+    "id": 4,
+    "name": "Blazer Mid '77",
+    "price": 90,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=600",
+    "sizes": [6, 7, 8, 9, 10, 11, 12],
+    "description": "Styled for the streets and made for the court, the Blazer Mid '77 Vintage remakes the hoops icon.",
+    "category": "Sneakers"
+  },
+  {
+    "id": 5,
+    "name": "React Infinity Run",
+    "price": 160,
+    "image": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?auto=format&fit=crop&w=600",
+    "sizes": [7, 8, 9, 10, 11, 12],
+    "description": "The Nike React Infinity Run Flyknit 2 helps reduce injury risk by increasing propulsion.",
+    "category": "Running"
+  },
+  {
+    "id": 6,
+    "name": "The Basketball Shoes",
+    "price": 150,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/311353/15/sv01/fnd/IND/fmt/png/The-Dagger-Basketball-Shoes",
+    "sizes": [8, 9, 10, 11, 12],
+    "description": "Kevin Durant's 13th signature shoe delivers a new level of energy return and responsiveness.",
+    "category": "Basketball"
+  },
+  {
+    "id": 7,
+    "name": "Running Shoes",
+    "price": 110,
+    "image": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/20547d52-3e1b-4c3d-b917-f0d7e0eb8bdf/AIR+FORCE+1+LOW+ESS+NBY+LEA.png",
+    "sizes": [7, 8, 9, 10, 11, 12],
+    "description": "The Nike Dunk Low Retro brings back the street ball icon that put the Dunk on the map.",
+    "category": "Sneakers"
+  },
+  {
+    "id": 8,
+    "name": "Pegasus Trail 3",
+    "price": 130,
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=600",
+    "sizes": [7, 8, 9, 10, 11, 12],
+    "description": "The Nike Pegasus Trail 3 GORE-TEX takes the versatility of the Pegasus and adds trail-ready features.",
+    "category": "Running"
+  },
+  {
+    "id": 9,
+    "name": "Puma Running Shoes",
+    "price": 200,
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/311767/05/sv01/fnd/IND/fmt/png/Galaxis-Pro-Men's-Running-Shoes",
+    "sizes": [8, 9, 10, 11, 12, 13],
+    "description": "The LeBron 18 combines 2 responsive cushioning systems for high-energy players.",
+    "category": "Basketball"
+  },
+  {
+    "id": 10,
+    "name": "Adidas Shoes",
+    "price": 80,
+    "image": "https://th.bing.com/th?id=OPAC.jTbW0uMb5%2fDBbQ474C474&w=592&h=550&o=5&dpr=1.4&pid=21.1",
+    "sizes": [6, 7, 8, 9, 10, 11, 12],
+    "description": "The Nike Cortez is a running staple that's been worn by everyone from athletes to celebrities.",
+    "category": "Running"
+  },
+  {
+    "id": 11,
+    "name": "Kyrie 7",
+    "price": 130,
+    "image": "https://images.unsplash.com/photo-1614680376739-414d95ff43df?auto=format&fit=crop&w=600",
+    "sizes": [8, 9, 10, 11, 12],
+    "description": "Kyrie Irving's seventh signature shoe is designed to help you shake off defenders and finish at the rim.",
+    "category": "Basketball"
+  },
+  {
+    "id": 12,
+    "name": "Noise Wireless Earbud",
+    "price": 120,
+    "image": "https://th.bing.com/th/id/OPAC.Vuzps4PPc10nQg474C474?w=592&h=550&o=5&dpr=1.4&pid=21.1",
+    "sizes": [7, 8, 9, 10, 11, 12],
+    "description": "The Nike Waffle One delivers a refined look rooted in timeless Nike DNA.",
+    "category": "Sneakers"
+  }
+]
